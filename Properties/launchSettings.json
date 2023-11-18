@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "H": {
+      "commandName": "Executable",
+      "executablePath": "H:\\AliceInCradle.exe",
+      "workingDirectory": "H:\\"
+    }
+  }
+}
